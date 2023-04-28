@@ -10,5 +10,4 @@ public class CalculadoraMitjana {
         }
         return suma / n;
     }
-
 }
